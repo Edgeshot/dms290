@@ -1,0 +1,51 @@
+/*top*/
+h1{
+  color: white;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  margin-bottom: 100px;
+  font-size: 64px;
+  font-family: 'Merriweather', serif;
+
+}
+h1:hover{
+  color:orange;
+}
+
+h2{
+  color: white;
+  font-size: 30px;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  font-family: 'Merriweather', serif;
+}
+h2:hover{
+  color:orange;
+}
+
+
+
+body{
+  text-align: center;
+  background-image: url("../images/background.jpg");
+
+  }
+
+.images{
+  position:static;
+  padding: 50px;
+  width: 300px;
+  height: 300px;
+}
+/*Bottom*/
+p{
+  color: white;
+  font-size: 24px;
+  margin-left: 100px;
+  margin-right: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.footer-link:hover{
+  color: #EAF6F6;
+}
